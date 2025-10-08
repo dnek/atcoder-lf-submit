@@ -21,5 +21,8 @@ atcoder-lf-submitは、ブラウザ上で正規に取得したTurnstileのトー
 
 また、コード長表示は提出ページ及びコードテストページに適用していますが、コードテストは元々JavaScriptで送信される実装になっておりCRLF正規化が行われないため、LF用ボタンは提出ページのみに追加しています。
 
+## インストール
+- Greasy Fork https://greasyfork.org/ja/scripts/551938-atcoder-lf-submit
+
 ## ソース
 - https://github.com/dnek/atcoder-lf-submit/raw/main/atcoder-lf-submit.user.js
