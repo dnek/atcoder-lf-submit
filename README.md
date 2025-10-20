@@ -33,3 +33,6 @@ atcoder-lf-submitは、ブラウザ上で正規に取得したTurnstileのトー
 
 ## ソース
 - https://github.com/dnek/atcoder-lf-submit/raw/main/atcoder-lf-submit.user.js
+
+## 関連
+- AtCoderで画像をPiet提出用に変換し、提出結果を画像に変換するUserScript https://github.com/dnek/atcoder-piet-image-converter
